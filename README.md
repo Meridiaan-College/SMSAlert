@@ -11,3 +11,4 @@ Het is dus mogelijk om via een app telefoonnummers te blokkeren. Wat handig zou 
 
 
 
+voor maar 1 euro per maand kan u zich bij ons inschrijven. U download dan onze app en wij blokkeren de nummers die in ons sms-me-niet register staan. Maar u kunt ook gratis de app downloaden, we scannen uw sms-jes dan wel maar blokkeren de nummers niet voor u.
