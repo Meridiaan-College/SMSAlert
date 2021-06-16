@@ -15,4 +15,5 @@ voor maar 1 euro per maand kan u zich bij ons inschrijven. U download dan onze a
 
 
 Het gele schild staat voor bescherming, dit geeft weer dat wij altijd bij uw kant zullen staan. Wij beschermen u tegen de gevaren van de gevaarlijke buitenwereld die u binnenstapt via uw telefoon. Het rode icoon staat voor het gevaar van de scammer. De groene achtergrond geeft een verwelkomend gevoel, waardoor je merkt dat we een grote familie zijn.
-![image](https://user-images.githubusercontent.com/84903135/122192561-105dda80-ce94-11eb-814d-d34c39685de3.png)
+
+![image](https://user-images.githubusercontent.com/84903135/122192878-561aa300-ce94-11eb-8d4e-d5c15bf9cf06.png)
