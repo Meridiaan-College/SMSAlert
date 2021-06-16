@@ -12,3 +12,7 @@ Het is dus mogelijk om via een app telefoonnummers te blokkeren. Wat handig zou 
 
 
 voor maar 1 euro per maand kan u zich bij ons inschrijven. U download dan onze app en wij blokkeren de nummers die in ons sms-me-niet register staan. Maar u kunt ook gratis de app downloaden, we scannen uw sms-jes dan wel maar blokkeren de nummers niet voor u.
+
+
+Het gele schild staat voor bescherming, dit geeft weer dat wij altijd bij uw kant zullen staan. Wij beschermen u tegen de gevaren van de gevaarlijke buitenwereld die u binnenstapt via uw telefoon. Het rode icoon staat voor het gevaar van de scammer. De groene achtergrond geeft een verwelkomend gevoel, waardoor je merkt dat we een grote familie zijn.
+![image](https://user-images.githubusercontent.com/84903135/122192561-105dda80-ce94-11eb-814d-d34c39685de3.png)
