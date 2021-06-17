@@ -37,4 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-# test
+# ons idee en hoe het werkt
+Het is dus mogelijk om via een app telefoonnummers te blokkeren. Wat handig zou zijn is een optie om via een app een fraude nummer aan te kunnen geven (dus centraal), zodat dit via een app kan worden opgehaald. Dus een soort SMS fraude bestrijding door fraude nummers centraal bij te houden (deny list, let op! het is sinds dit jaar niet meer gepast om de term 'black list' te gebruiken!)
+
+# onze tarieven
+voor maar 1 euro per maand kan u zich bij ons inschrijven. U download dan onze app en wij blokkeren de nummers die in ons sms-me-niet register staan. Maar u kunt ook gratis de app downloaden, we scannen uw sms-jes dan wel maar blokkeren de nummers niet voor u.
+
+# onze applogo
+![image](https://user-images.githubusercontent.com/84903135/122367725-f76d2c00-cf5c-11eb-818c-d63b06a614d1.png)
+
